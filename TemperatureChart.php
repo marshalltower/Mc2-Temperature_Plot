@@ -4,7 +4,7 @@
 <head>
 	<!-- tab setup-->
 	<title>McMillan - Graphs</title>
-	<link rel="icon" href="http://www.mcmillan-mcgee.com/public/images/orb.png">
+	<link rel="icon" href="https://www.mcmillan-mcgee.com/public/images/orb.png">
 
 	<!-- external css links-->
 	<link href='https://fonts.googleapis.com/css?family=Calibri:400,700,400italic,700italic' rel='stylesheet'>
@@ -22,7 +22,7 @@
 <body onload="getInitData()">
 	<div class="container">
 		<div class="sidebar">
-			<a href="http://www.mcmillan-mcgee.com/"><img class="companylogo" src="http://www.mcmillan-mcgee.com/public/images/Mc2_Mast_Logo.png"></a>
+			<a href="https://www.mcmillan-mcgee.com/"><img class="companylogo" src="https://www.mcmillan-mcgee.com/public/images/Mc2_Mast_Logo.png"></a>
 			<div class="modifiertitle">Modify Selection By:</div>
 				<div class="modifier"><img class="dropdownarrow"/><div class="modifierspan">Electrodes</div></div>
 					<div class="details" ><ul id="electrodelist"></ul></div>
